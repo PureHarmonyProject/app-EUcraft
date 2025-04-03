@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "[医]欧几里得(ArkWeb)"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "[医]欧几里得(ArkWeb)"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "[医]欧几里得"
+    },
+    {
+      "name": "apply_for_network",
+      "value": "[医]欧几里得"
+    }
+  ]
+}
