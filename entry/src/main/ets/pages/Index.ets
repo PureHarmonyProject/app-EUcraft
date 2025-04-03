@@ -20,7 +20,7 @@ struct Index {
 
   build() {
     Column() {
-      Web({ src: 'https://www.duolingo.cn/', controller: this.webviewController })
+      Web({ src: 'https://eucraft.consilium.europa.eu/launch_screen', controller: this.webviewController })
         .domStorageAccess(true)
     }
     .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.TOP, SafeAreaEdge.BOTTOM])
