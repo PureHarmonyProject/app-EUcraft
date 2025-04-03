@@ -2,15 +2,15 @@
   "string": [
     {
       "name": "module_desc",
-      "value": "Duolingo(ArkWeb)"
+      "value": "EUcraft(ArkWeb)"
     },
     {
       "name": "EntryAbility_desc",
-      "value": "Duolingo(ArkWeb)"
+      "value": "EUcraft(ArkWeb)"
     },
     {
       "name": "EntryAbility_label",
-      "value": "Duolingo"
+      "value": "EUcraft"
     },
     {
       "name": "apply_for_network",
